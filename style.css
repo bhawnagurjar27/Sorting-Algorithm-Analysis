@@ -229,6 +229,14 @@ font-family: Comic Sans MS;
             
         }
 		
+	.container{
+            height: 130vh;
+            width: 100vw;
+            margin: 0%;
+            padding: 0%;
+            background-color: darkgrey;
+        }
+		
 }
 
 .totalswaps{
